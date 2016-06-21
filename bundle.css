@@ -122,8 +122,7 @@
 .hljs a:hover {
   color: inherit;
   text-decoration: underline;
-}
-/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+}/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
 /**
  * 1. Change the default font family in all browsers (opinionated).
@@ -541,8 +540,7 @@ textarea {
 ::-webkit-file-upload-button {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
-}
-._b03c5c45 nav {
+}._b03c5c45 nav {
     position: fixed;
     top: 0px;
     bottom: 0px;
